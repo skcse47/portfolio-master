@@ -1,6 +1,6 @@
 # Demo :movie_camera:
 
-## View live preview [here](https://nehanooka.netlify.app/)
+## View live preview [here](https://portfolio.skcse47.vercel.app/)
 
 ![](./public/image/screen.mov)
 
@@ -131,25 +131,25 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "NEHA NOOKA",
+  name: "SURAJ KUMAR SINGH",
   profile: "/profile.jpeg",
-  designation: "Software Developer",
+  designation: "Software Engineer",
   description:
-    "My name is NEHA NOOKA, and I am a passionate and dedicated programmer with a strong drive for learning and exploring new technologies. I am a quick learner with a self-motivated approach, always eager to solve challenging problems and create impactful solutions.",
+    "My name is SURAJ KUMAR SINGH, and I am a passionate and dedicated programmer with a strong drive for learning and exploring new technologies. I am a quick learner with a self-motivated approach, always eager to solve challenging problems and create impactful solutions.",
   description2:
     "My expertise spans multiple areas of web and software development, with a strong foundation in JavaScript and a keen interest in building dynamic, user-friendly applications. I thrive on making technology accessible and effective, contributing to innovative projects that leave a mark. I am open to exciting job opportunities that align with my skills and passion for development.",
-  email: "nookaneha@gmail.com",
-  phone: "+16673358435",
-  address: "Seattle WA, USA (Open to relocation)",
-  github: "https://github.com/NehaNooka",
-  facebook: "https://www.facebook.com/NehaNooka/",
-  linkedIn: "https://www.linkedin.com/in/neha-nooka/",
-  twitter: "https://twitter.com/nehanooka",
-  stackOverflow: "https://stackoverflow.com/users/29148012/neha-nooka",
-  leetcode: "https://leetcode.com/u/nehanooka/",
-  devUsername: "nehanooka",
+  email: "skcse47@gmail.com",
+  phone: "+91 6201577856",
+  address: "Noida, India",
+  github: "https://github.com/skcse47",
+  facebook: "https://www.facebook.com/",
+  linkedIn: "https://www.linkedin.com/in/skcse47",
+  twitter: "https://twitter.com/skcse47",
+  stackOverflow: "https://stackoverflow.com/",
+  leetcode: "https://leetcode.com/u/skcse47/",
+  devUsername: "skcse47",
   resume:
-    "https://drive.google.com/file/d/1nzo6AEhlryO4dxACzpd0Hw8Krm0fuA_C/view?usp=sharing",
+    "https://docs.google.com/document/d/1JbhJ1KJsisnPAIOvdwJkW20Qn43I06EE/edit?usp=sharing",
 };
 ```
 
